@@ -1,7 +1,7 @@
 {
   "cron": [
     {
-      "path": "/src/app/ServerCheck",
+      "path": "/app/ServerCheck",
       "schedule": "*/5 * * * *"
     }
   ]
