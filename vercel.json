@@ -2,7 +2,7 @@
   "crons": [
     {
       "path": "/app/ServerCheck",
-      "schedule": "0 10 * * *"
+      "schedule": "*/10 * * * *"
     }
   ]
 }
