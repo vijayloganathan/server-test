@@ -1,0 +1,8 @@
+{
+  "cron": [
+    {
+      "path": "/src/app/ServerCheck",
+      "schedule": "*/10 * * * *"
+    }
+  ]
+}
